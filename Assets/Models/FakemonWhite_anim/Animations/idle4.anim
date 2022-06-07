@@ -1,0 +1,1113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: idle4
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -0.043619387, z: -0, w: 0.99904823}
+        inSlope: {x: 0, y: 0.009481049, z: 0, w: 0.00041306016}
+        outSlope: {x: 0, y: 0.009481049, z: 0, w: 0.00041306016}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: 0, y: -0.006817642, z: -0, w: 0.99997675}
+        inSlope: {x: 0, y: -0.07330197, z: 0, w: -0.00051230186}
+        outSlope: {x: 0, y: -0.07330197, z: 0, w: -0.00051230186}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0, y: -0.043619387, z: -0, w: 0.99904823}
+        inSlope: {x: 0, y: -0.009481059, z: 0, w: -0.0004130606}
+        outSlope: {x: 0, y: -0.009481059, z: 0, w: -0.0004130606}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:group5/fakemon_white_Rigg_02:CTRL_Body
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.043619234, y: 0.000115910836, z: -5.7729686e-14, w: 0.99904823}
+        inSlope: {x: 0.009481273, y: -0.000025194602, z: -1.40071964e-11, w: 0.00041306016}
+        outSlope: {x: 0.009481273, y: -0.000025194602, z: -1.40071964e-11, w: 0.00041306016}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: -0.006817619, y: 0.000018116683, z: 5.3705785e-15, w: 0.99997675}
+        inSlope: {x: -0.07330172, y: 0.00019478702, z: -3.295076e-13, w: -0.00051230186}
+        outSlope: {x: -0.07330172, y: 0.00019478702, z: -3.295076e-13, w: -0.00051230186}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -0.043619234, y: 0.000115910836, z: -5.7729686e-14, w: 0.99904823}
+        inSlope: {x: -0.009481283, y: 0.000025194628, z: 1.400721e-11, w: -0.0004130606}
+        outSlope: {x: -0.009481283, y: 0.000025194628, z: 1.400721e-11, w: -0.0004130606}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.12266099, y: 0.15831888, z: 0.29101324, w: 0.9355216}
+        inSlope: {x: -0.014770924, y: 0.007682293, z: -0.014085173, w: 0.005010366}
+        outSlope: {x: -0.014770924, y: 0.007682293, z: -0.014085173, w: 0.005010366}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6333334
+        value: {x: 0.052663997, y: 0.19060919, z: 0.23196265, w: 0.95241165}
+        inSlope: {x: -0.030608017, y: 0.012626941, z: -0.022937348, w: 0.0047796946}
+        outSlope: {x: -0.030608017, y: 0.012626941, z: -0.022937348, w: 0.0047796946}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2666668
+        value: {x: 0.12075775, y: 0.159306, z: 0.28920344, w: 0.93616265}
+        inSlope: {x: 0.05463899, y: -0.028189983, z: 0.05168074, w: -0.018162109}
+        outSlope: {x: 0.05463899, y: -0.028189983, z: 0.05168074, w: -0.018162109}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.12266099, y: 0.15831888, z: 0.29101324, w: 0.9355216}
+        inSlope: {x: 0.014770939, y: -0.007682301, z: 0.014085187, w: -0.005010371}
+        outSlope: {x: 0.014770939, y: -0.007682301, z: 0.014085187, w: -0.005010371}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.024886986, y: 0.038211465, z: 0.44272867, w: 0.89549536}
+        inSlope: {x: -0.0013951397, y: 0.0011412798, z: 0.016647577, w: -0.008246899}
+        outSlope: {x: -0.0013951397, y: 0.0011412798, z: 0.016647577, w: -0.008246899}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.73333335
+        value: {x: 0.019168079, y: 0.04205321, z: 0.50298554, w: 0.8630584}
+        inSlope: {x: 0.004192851, y: -0.0023104993, z: -0.039437406, w: 0.02298474}
+        outSlope: {x: 0.004192851, y: -0.0023104993, z: -0.039437406, w: 0.02298474}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.024886986, y: 0.038211465, z: 0.44272867, w: 0.89549536}
+        inSlope: {x: 0.0013951411, y: -0.001141281, z: -0.016647594, w: 0.008246906}
+        outSlope: {x: 0.0013951411, y: -0.001141281, z: -0.016647594, w: 0.008246906}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_L/fakemon_white_Rigg_02:joint_leg02_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7759057, y: -0.58154273, z: 0.19564372, w: 0.14663531}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.7759057, y: -0.58154273, z: 0.19564372, w: 0.14663531}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_L/fakemon_white_Rigg_02:joint_leg02_L/fakemon_white_Rigg_02:joint_leg03_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.29100284, y: 0.93546987, z: 0.12247903, w: 0.15878394}
+        inSlope: {x: -0.014067291, y: 0.005012154, z: -0.014735385, w: 0.0075803692}
+        outSlope: {x: -0.014067291, y: 0.005012154, z: -0.014735385, w: 0.0075803692}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6333334
+        value: {x: 0.23196414, y: 0.95241076, z: 0.05266336, w: 0.19061211}
+        inSlope: {x: -0.022958359, y: 0.0048190337, z: -0.03052079, w: 0.012432928}
+        outSlope: {x: -0.022958359, y: 0.0048190337, z: -0.03052079, w: 0.012432928}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2666668
+        value: {x: 0.28919524, y: 0.93611115, z: 0.120580114, w: 0.15975787}
+        inSlope: {x: 0.051620837, y: -0.018169262, z: 0.054516055, w: -0.02780978}
+        outSlope: {x: 0.051620837, y: -0.018169262, z: 0.054516055, w: -0.02780978}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.29100284, y: 0.93546987, z: 0.12247903, w: 0.15878394}
+        inSlope: {x: 0.014067305, y: -0.0050121592, z: 0.0147354, w: -0.007580377}
+        outSlope: {x: 0.014067305, y: -0.0050121592, z: 0.0147354, w: -0.007580377}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.024881044, y: -0.03822492, z: 0.44284457, w: 0.8954376}
+        inSlope: {x: 0.0013913958, y: -0.0011373683, z: 0.01659125, w: -0.008221865}
+        outSlope: {x: 0.0013913958, y: -0.0011373683, z: 0.01659125, w: -0.008221865}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.73333335
+        value: {x: -0.019171074, y: -0.042059235, z: 0.50298494, w: 0.8630583}
+        inSlope: {x: -0.0041932142, y: 0.0023107787, z: -0.03943651, w: 0.022982951}
+        outSlope: {x: -0.0041932142, y: 0.0023107787, z: -0.03943651, w: 0.022982951}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -0.024881044, y: -0.03822492, z: 0.44284457, w: 0.8954376}
+        inSlope: {x: -0.0013913972, y: 0.0011373694, z: -0.016591266, w: 0.008221872}
+        outSlope: {x: -0.0013913972, y: 0.0011373694, z: -0.016591266, w: 0.008221872}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_R/fakemon_white_Rigg_02:joint_leg02_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.58154243, y: 0.77590394, z: 0.14663945, w: -0.19564888}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.58154243, y: 0.77590394, z: 0.14663945, w: -0.19564888}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_R/fakemon_white_Rigg_02:joint_leg02_R/fakemon_white_Rigg_02:joint_leg03_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.098168746, y: -0.6695746, z: 0.08995502, w: 0.73071253}
+        inSlope: {x: 0.0022405384, y: -0.018167494, z: 0.0024414805, w: -0.016660094}
+        outSlope: {x: 0.0022405384, y: -0.018167494, z: 0.0024414805, w: -0.016660094}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.70000005
+        value: {x: -0.090017155, y: -0.73028874, z: 0.09811177, w: 0.6700368}
+        inSlope: {x: -0.0035940502, y: 0.02457441, z: -0.0033023597, w: 0.026752366}
+        outSlope: {x: -0.0035940502, y: 0.02457441, z: -0.0033023597, w: 0.026752366}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -0.098168746, y: -0.6695746, z: 0.08995502, w: 0.73071253}
+        inSlope: {x: -0.0017092393, y: 0.0138652455, z: -0.001864137, w: 0.012713683}
+        outSlope: {x: -0.0017092393, y: 0.0138652455, z: -0.001864137, w: 0.012713683}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0051398203, y: 0.043315507, z: -0.11772124, w: 0.99208826}
+        inSlope: {x: -0.0029278824, y: -0.024674533, z: -0.00012673438, w: 0.001065731}
+        outSlope: {x: -0.0029278824, y: -0.024674533, z: -0.00012673438, w: 0.001065731}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.70000005
+        value: {x: -0.0050653396, y: -0.042687826, z: -0.11772447, w: 0.99211544}
+        inSlope: {x: 0.0043149292, y: 0.036363844, z: -0.00018317261, w: 0.001543165}
+        outSlope: {x: 0.0043149292, y: 0.036363844, z: -0.00018317261, w: 0.001543165}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.0051398203, y: 0.043315507, z: -0.11772124, w: 0.99208826}
+        inSlope: {x: 0.002234422, y: 0.018830467, z: 0.000097006654, w: -0.0008153923}
+        outSlope: {x: 0.002234422, y: 0.018830467, z: 0.000097006654, w: -0.0008153923}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01/fakemon_white_Rigg_02:joint_Tell02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.011382478, y: 0.7371895, z: -0.01043012, w: 0.6755097}
+        inSlope: {x: -0.00025953166, y: -0.01680851, z: -0.00028300096, w: 0.018328426}
+        outSlope: {x: -0.00025953166, y: -0.01680851, z: -0.00028300096, w: 0.018328426}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.70000005
+        value: {x: 0.010437294, y: 0.675976, z: -0.011375849, w: 0.7367619}
+        inSlope: {x: 0.0004167205, y: 0.026989294, z: 0.0003828017, w: -0.02479167}
+        outSlope: {x: 0.0004167205, y: 0.026989294, z: 0.0003828017, w: -0.02479167}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.011382478, y: 0.7371895, z: -0.01043012, w: 0.6755097}
+        inSlope: {x: 0.00019803662, y: 0.012826336, z: 0.00021600185, w: -0.013988627}
+        outSlope: {x: 0.00019803662, y: 0.012826336, z: 0.00021600185, w: -0.013988627}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01/fakemon_white_Rigg_02:joint_Tell02/fakemon_white_Rigg_02:joint_Tell03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.36907065, y: 0.60314745, z: -0.36907065, w: 0.60314745}
+        inSlope: {x: -0.0057238336, y: -0.0035029647, z: -0.0057238336, w: -0.0035029647}
+        outSlope: {x: -0.0057238336, y: -0.0035029647, z: -0.0057238336, w: -0.0035029647}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: -0.39102075, y: 0.5891543, z: -0.39102075, w: 0.5891543}
+        inSlope: {x: 0.04319161, y: 0.028655827, z: 0.04319161, w: 0.028655827}
+        outSlope: {x: 0.04319161, y: 0.028655827, z: 0.04319161, w: 0.028655827}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -0.36907065, y: 0.60314745, z: -0.36907065, w: 0.60314745}
+        inSlope: {x: 0.0057238396, y: 0.0035029682, z: 0.0057238396, w: 0.0035029682}
+        outSlope: {x: 0.0057238396, y: 0.0035029682, z: 0.0057238396, w: 0.0035029682}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.0929918e-20, y: 1.1990742e-18, z: 0.010251755, w: 0.9999475}
+        inSlope: {x: -1.1379468e-20, y: 1.9542141e-22, z: -0.009489766, w: 0.00009477138}
+        outSlope: {x: -1.1379468e-20, y: 1.9542141e-22, z: -0.009489766, w: 0.00009477138}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: -2.3218843e-20, y: 1.199032e-18, z: -0.02656048, w: 0.9996472}
+        inSlope: {x: 8.789386e-20, y: 1.6874486e-21, z: 0.0732782, w: 0.0019347669}
+        outSlope: {x: 8.789386e-20, y: 1.6874486e-21, z: 0.0732782, w: 0.0019347669}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 2.0929918e-20, y: 1.1990742e-18, z: 0.010251755, w: 0.9999475}
+        inSlope: {x: 1.1379479e-20, y: -1.9542161e-22, z: 0.009489777, w: -0.00009477147}
+        outSlope: {x: 1.1379479e-20, y: -1.9542161e-22, z: 0.009489777, w: -0.00009477147}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01/fakemon_white_Rigg_02:joint_head02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.37815323, y: -0.60452026, z: 0.38979733, w: 0.58276373}
+        inSlope: {x: 0.0031149385, y: 0.0057452912, z: -0.0032150743, w: 0.0060832496}
+        outSlope: {x: 0.0031149385, y: 0.0057452912, z: -0.0032150743, w: 0.0060832496}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: 0.38998526, y: -0.5818345, z: 0.37706774, w: 0.6059703}
+        inSlope: {x: -0.02304241, y: -0.045958757, z: 0.025856048, w: -0.045407116}
+        outSlope: {x: -0.02304241, y: -0.045958757, z: 0.025856048, w: -0.045407116}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.37815323, y: -0.60452026, z: 0.38979733, w: 0.58276373}
+        inSlope: {x: -0.0031149418, y: -0.0057452973, z: 0.0032150776, w: -0.0060832556}
+        outSlope: {x: -0.0031149418, y: -0.0057452973, z: 0.0032150776, w: -0.0060832556}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01/fakemon_white_Rigg_02:joint_head02/fakemon_white_Rigg_02:joint_head03
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00030299518, y: -0.00015778137, z: -0.00059661985}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 0.00030299518, y: -0.00015778137, z: -0.00059661985}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 8.2128256e-20, y: 0.030201444, z: -0.0012895335}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 8.2128256e-20, y: 0.030201444, z: -0.0012895335}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.795683e-18, y: -0.012838628, z: -0.042085722}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 2.795683e-18, y: -0.012838628, z: -0.042085722}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.027786944, y: 6.661338e-18, z: -0.00047239815}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -0.027786944, y: 6.661338e-18, z: -0.00047239815}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01/fakemon_white_Rigg_02:joint_Tell02/fakemon_white_Rigg_02:joint_Tell03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -5.8150503e-18, y: 0.046279263, z: 0.019127803}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -5.8150503e-18, y: 0.046279263, z: 0.019127803}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.019720025, y: 3.9968027e-17, z: -1.5948614e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: -0.019720025, y: 3.9968027e-17, z: -1.5948614e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01/fakemon_white_Rigg_02:joint_head02/fakemon_white_Rigg_02:joint_head03
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_L/fakemon_white_Rigg_02:joint_leg02_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_L/fakemon_white_Rigg_02:joint_leg02_L/fakemon_white_Rigg_02:joint_leg03_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_R/fakemon_white_Rigg_02:joint_leg02_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_leg01_R/fakemon_white_Rigg_02:joint_leg02_R/fakemon_white_Rigg_02:joint_leg03_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01/fakemon_white_Rigg_02:joint_Tell02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_Tell01/fakemon_white_Rigg_02:joint_Tell02/fakemon_white_Rigg_02:joint_Tell03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01/fakemon_white_Rigg_02:joint_head02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.3333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: fakemon_white_Rigg_02:MAing_grp/fakemon_white_Rigg_02:Main_CTRL/fakemon_white_Rigg_02:joint_root/fakemon_white_Rigg_02:joint_body/fakemon_white_Rigg_02:joint_head01/fakemon_white_Rigg_02:joint_head02/fakemon_white_Rigg_02:joint_head03
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: fakemon_white_Rigg_02:fakemon_white:Mesh
+    classID: 25
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.fakemon_white_Rigg_02:Body_Shape.Squash
+    path: fakemon_white_Rigg_02:fakemon_white:Mesh
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1.3333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: blendShape.fakemon_white_Rigg_02:Body_Shape.Strech
+    path: fakemon_white_Rigg_02:fakemon_white:Mesh
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.3333334
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
